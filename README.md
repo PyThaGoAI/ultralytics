@@ -248,10 +248,6 @@ Experience seamless AI with [Ultralytics HUB](https://hub.ultralytics.com/), the
 
 
 
-<!-- SVG image from https://opencollective.com/ultralytics/contributors.svg?width=1280 -->
-
-[![Ultralytics open-source contributors](https://raw.githubusercontent.com/ultralytics/assets/main/im/image-contributors.png)](https://github.com/ultralytics/ultralytics/graphs/contributors)
-
 We look forward to your contributions to help make the Ultralytics ecosystem even better!
 
 ## 📜 License
